@@ -1,3 +1,7 @@
+This is a fork of the main work done on [xwiki-contrib/aillm repo](https://github.com/xwiki-contrib/ai-llm-benchmark)
+I use it to test experimental ideas. 
+For the stable version go to the link above.
+
 # The LLM AI Evaluation Framework
 
 The LLM AI Evaluation Framework is a comprehensive tool designed to evaluate the performance and suitability of different Large Language Models (LLMs) for specific tasks in the context of knowledge management and XWiki technical support. The framework aims to provide insights into the capabilities of LLMs in generating typical content, summarizing content, and answering questions based on provided context.
@@ -251,10 +255,6 @@ snakemake --cores 1 clean
 
 ---
 
-* Project Lead: Ludovic Dubost 
 * [Issue Tracker](https://jira.xwiki.org/browse/LLMAI)
 * Communication: [Forum](https://forum.xwiki.org/), [Chat](https://dev.xwiki.org/xwiki/bin/view/Community/Chat)
 * License: LGPL 2.1
-* Translations: N/A
-* Sonar Dashboard: N/A
-* Continuous Integration Status: N/A
